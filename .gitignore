@@ -1,0 +1,4 @@
+.vevn
+__pycache__
+__pytest_cache__
+seed.py
